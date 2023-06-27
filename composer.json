@@ -3,6 +3,7 @@
     "description": "composer demo package",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "zacksleo",
