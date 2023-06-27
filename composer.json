@@ -9,7 +9,5 @@
     },
     "license": "MIT",
     "minimum-stability": "dev",
-    "require": {
-        "its-avijit-me/composer-demo": "^1.0"
-    }
+    "require": {}
 }
