@@ -1,13 +1,18 @@
 {
     "name": "its-avijit-me/composer-demo",
     "description": "A demo composer package",
-    "type": "library",
+    "type": "project",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "ItsAvijitMe\\ComposerDemo\\": "src/"
         }
     },
-    "license": "MIT",
-    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Avijit Das"
+        }
+    ],
+    "minimum-stability": "stable",
     "require": {}
 }
