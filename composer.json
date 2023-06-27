@@ -21,5 +21,7 @@
     }
 ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {
+    "its-avijit-me/composer-demo": "^1.0"
+}
 }
