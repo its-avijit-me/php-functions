@@ -8,6 +8,8 @@
         }
     },
     "license": "MIT",
-    "minimum-stability": "stable",
-    "require": {}
+    "minimum-stability": "dev",
+    "require": {
+        "its-avijit-me/composer-demo": "^1.0"
+    }
 }
