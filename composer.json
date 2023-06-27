@@ -1,27 +1,12 @@
 {
     "name": "its-avijit-me/composer-demo",
-    "description": "composer demo package",
+    "description": "A demo composer package",
     "type": "library",
-    "license": "MIT",
-    "minimum-stability": "stable",
-    "authors": [
-        {
-            "name": "zacksleo",
-            "email": "zacksleo@gmail.com"
-        }
-    ],
-    "require": {},
-    "require-dev": {
-        "phpunit/phpunit": "^7.0"
-    },
     "autoload": {
         "psr-4": {
-            "zacksleo\\demo\\": "src/"
+            "ItsAvijitMe\\ComposerDemo\\": "src/"
         }
     },
-    "autoload-dev": {
-        "psr-4": {
-            "zacksleo\\demo\tests\\": "tests"
-        }
-    }
+    "minimum-stability": "dev",
+    "require": {}
 }
