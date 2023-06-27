@@ -13,6 +13,13 @@
             "name": "Avijit Das"
         }
     ],
+
+    "repositories": [
+    {
+        "type": "composer",
+        "url": "https://packagist.org"
+    }
+],
     "minimum-stability": "stable",
     "require": {}
 }
