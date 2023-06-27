@@ -1,5 +1,5 @@
 {
-    "name": "zacksleo/composer-demo",
+    "name": "abc/composer-demo",
     "description": "composer demo package",
     "type": "library",
     "license": "MIT",
